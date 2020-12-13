@@ -1,0 +1,8 @@
+.todo {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.completed {
+  text-decoration: line-through;
+}
