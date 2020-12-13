@@ -6,6 +6,7 @@ const styles = (theme) => ({
     left: "0",
     width: "300px",
     boxShadow: "0px 0px 2px black",
+    background: "blue",
   },
   titleInput: {
     height: "50px",

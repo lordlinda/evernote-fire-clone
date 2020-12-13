@@ -22,7 +22,7 @@ function Signin(props) {
   };
   const signup = (e) => {
     e.preventDefault();
-
+    console.log(data);
     if (email && password) {
       auth
         .signInWithEmailAndPassword(email, password)
